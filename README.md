@@ -1,4 +1,4 @@
-# json-parser
+# hask-json
 
 A JSON parser written in Haskell using [Megaparsec](https://hackage.haskell.org/package/megaparsec), producing values of the [`json-ast`](https://hackage.haskell.org/package/json-ast) AST type.
 
